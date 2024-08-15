@@ -1,21 +1,35 @@
-# 💫 About Me:
-# 👋 Hello, World! I'm Artyom Shved
-## 🚀 Frontend Developer | Code Artisan | Pixel Perfectionist<br><br>Crafting beautiful, responsive, and user-friendly web experiences is my passion. I turn caffeine into code and dreams into websites.
-### 🛠️ My Toolbox<br><br>- HTML5, CSS3, JavaScript (ES6+)<br>- React, Vue.js<br>- Sass, Less, Styled Components, Tailwind<br>- Webpack, Vite<br>- Nuxt 3, NextJS 14
-### 💡 What I Do<br><br>- Transform designs into pixel-perfect, responsive layouts<br>- Build interactive and dynamic user interfaces<br>- Optimize web performance for lightning-fast load times<br>- Collaborate with cross-functional teams to deliver awesome products
-### 🌱 Always Learning<br><br>Currently exploring:  NextJS 14, TypeScript 5.5
-### 📫 Let's Connect<br><br>- Coming soon!
-### 🎯 Fun Fact<br><br>I can center a div in my sleep! 😄
+**Добро пожаловать на мой Github!**
 
+Меня зовут Артём, я Frontend инженер с опытом работы на коммерческих проектах 6 лет.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Art-Shved-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Art-Shved-Developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Shved-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+В сфере IT я с 18 лет, после школы работал в рознице, продавал, собирал и чинил компьютеры, в студенческие годы до 3 курса работал системным администратором и сетевым инженером. После определился с направлением и полностью ушёл в Frontend разработку. Первая работа по направлению была контент-менеджер, сразу после окончания курса HTML Academy, далее перешёл на должность Frontend разработчика и мой путь начался в компании Spider Group.
 
----
-[![](https://visitcount.itsvg.in/api?id=Art-Shved-Developer&icon=0&color=0)](https://visitcount.itsvg.in)
+Основные направление  - создание сайтов, веб-приложений, дизайн систем.
+Моя работа заключается в том, чтобы найти наиболее эффективный, удобный и красивый способ решения задачи.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Я принципиально не работаю с теми, чьи убеждения противоречат моим.
+Не участвую и не беру работу по проектам - банков, казино, крипте, букмекеров.
+
+Сейчас мой основной стек: **Vue/Nuxt**
+Также большой опыт в стеке: **React/Next**
+
+***Основные навыки Frontend:*** 
+ - JavaScript (ES6, ECMAScript 2024)
+ - TypeScript
+ - HTML, CSS
+ - Стилизация: LESS/SASS/Stylus, Tailwind, Styled Components
+ - State менеджеры: Vuex/Pinia, Redux, MobX, Zustand
+ - Git, Linux Shell, CI/CD pipelines, Docker (docker-compose)
+
+***Дополнительные навыки***
+- Backend (Node + Express), проходил курсы от создателя NodeJS
+- Базы данных: PostgreSQL, MongoDB
+- разбираюсь в метриках (Prometheus) и построением Dashboards в Grafana
+- умею настроить логирование ошибок в Sentry, DadaDog
+
+Люблю кофе, владелец 2 кошек, люблю серию книг Дюна
+
+Хобби:
+- поездки на машине с семьей (горы, леса, моря и т.д)
+- владею Swift свободно пишу iOS приложения на Swift с архитектурой TCA
+- осваиваю прожарку стейков на грилле
